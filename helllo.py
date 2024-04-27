@@ -1,2 +1,2 @@
 print("abcdef")
-print("coc")
+print("afg")
