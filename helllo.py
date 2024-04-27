@@ -1,1 +1,2 @@
 print("abcdef")
+print("cosc")
